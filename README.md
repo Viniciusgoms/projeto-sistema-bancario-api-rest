@@ -1,4 +1,5 @@
-<a href="https://imgur.com/a/C0PAaRx"><img src="https://imgur.com/a/C0PAaRx.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/a/C0PAaRx"><img src="https://i.imgur.com/mkhiAZg.png" title="source: imgur.com" /></a>
+
 # Magovei Bank - Projeto de Sistema Bancário - API Rest
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Viniciusgoms/projeto-sistema-bancario-api-rest)
