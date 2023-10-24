@@ -1,10 +1,11 @@
-<a href="https://imgur.com/a/C0PAaRx"><img src="https://i.imgur.com/mkhiAZg.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/a/z9mxhKC"><img src="https://i.imgur.com/B6wnbxW.png" title="source: imgur.com" /></a>
 
-# Magovei Bank - Projeto de Sistema Bancário - API Rest
+
+# ViniGo Bank - Projeto de Sistema Bancário - API Rest
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Viniciusgoms/projeto-sistema-bancario-api-rest)
 
-O Magovei Bank é um projeto de sistema bancário simples desenvolvido em Node.js usando o framework Express. Este projeto foi criado para demonstrar habilidades em desenvolvimento de software, programação em JavaScript, gerenciamento de rotas e endpoints com Express, manipulação de dados em memória, e construção de uma API REST básica.
+O ViniGo Bank é um projeto de sistema bancário simples desenvolvido em Node.js usando o framework Express. Este projeto foi criado para demonstrar habilidades em desenvolvimento de software, programação em JavaScript, gerenciamento de rotas e endpoints com Express, manipulação de dados em memória, e construção de uma API REST básica.
 
 
 ## Funcionalidades
