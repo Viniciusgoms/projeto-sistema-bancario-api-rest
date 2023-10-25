@@ -24,7 +24,7 @@ O sistema bancário oferece as seguintes funcionalidades:
    ```bash
    git clone https://github.com/Viniciusgoms/projeto-sistema-bancario-api-rest
    ``` 
-2. **Clonar o repositório:**
+2. **Instalar as dependências:**
    ```bash
    npm install
 3. **Iniciar o servidor:**
